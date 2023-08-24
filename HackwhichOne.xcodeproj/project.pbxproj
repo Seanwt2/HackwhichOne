@@ -16,6 +16,7 @@
 		783517942A974954007BE2D0 /* HackwhichOneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 783517932A974954007BE2D0 /* HackwhichOneTests.swift */; };
 		7835179E2A974954007BE2D0 /* HackwhichOneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7835179D2A974954007BE2D0 /* HackwhichOneUITests.swift */; };
 		783517A02A974954007BE2D0 /* HackwhichOneUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7835179F2A974954007BE2D0 /* HackwhichOneUITestsLaunchTests.swift */; };
+		789B863B2A9755DE001F7851 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 789B863A2A9755DE001F7851 /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		783517992A974954007BE2D0 /* HackwhichOneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackwhichOneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7835179D2A974954007BE2D0 /* HackwhichOneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwhichOneUITests.swift; sourceTree = "<group>"; };
 		7835179F2A974954007BE2D0 /* HackwhichOneUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwhichOneUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		789B863A2A9755DE001F7851 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				783517852A974954007BE2D0 /* Assets.xcassets */,
 				783517872A974954007BE2D0 /* LaunchScreen.storyboard */,
 				7835178A2A974954007BE2D0 /* Info.plist */,
+				789B863A2A9755DE001F7851 /* Storyboard.storyboard */,
 			);
 			path = HackwhichOne;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				783517892A974954007BE2D0 /* LaunchScreen.storyboard in Resources */,
+				789B863B2A9755DE001F7851 /* Storyboard.storyboard in Resources */,
 				783517862A974954007BE2D0 /* Assets.xcassets in Resources */,
 				783517842A974952007BE2D0 /* Main.storyboard in Resources */,
 			);
